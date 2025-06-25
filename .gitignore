@@ -15,6 +15,3 @@ Thumbs.db
 
 # Ignore logs
 *.log
-
-# Streamlit specific
-.streamlit/config.toml
